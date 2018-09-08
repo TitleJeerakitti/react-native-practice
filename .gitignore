@@ -1,5 +1,2 @@
 .DS_Store
-.albums/node_modules
-.Auth/node_modules
-.tech_stack/node_modules
-.vscode
+.vscode/
