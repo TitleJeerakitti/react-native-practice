@@ -18,7 +18,7 @@ class LoginForm extends Component {
         
         this.props.logInUser({ email, password });
     }
-
+    
     renderErrorMessage() {
         if (this.props.error) {
             return (
