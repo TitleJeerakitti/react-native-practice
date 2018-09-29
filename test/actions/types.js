@@ -1,0 +1,4 @@
+export const CREATE_LIST = 'CREATE_LIST';
+export const CHECK_LIST = 'CHECK_LIST';
+export const REMOVE_LIST = 'REMOVE_LIST';
+export const REMOVE_COMPLETE_LIST = 'REMOVE_COMPLETE_LIST';
